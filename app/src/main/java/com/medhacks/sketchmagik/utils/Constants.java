@@ -8,5 +8,7 @@ public class Constants {
     public static final String MyPREFERENCES = "SketchMagikDeets" ;
     public static final String usernamePref = "Sm_Username";
     public static final String passwordPref = "Sm_Password";
-
+    public static boolean drawing = false;
+    public static boolean up = false;
+    public static boolean success = true;
 }
